@@ -1,0 +1,11 @@
+{
+ "version": 1,
+ "templates": [],
+ "multicam": {
+  "version": "0.1.1",
+  "url": "https://github.com/FAZOVFX/fazo_templates/releases/download/multicam-v0.1.1/FAZO_MULTICAM_Setup_0.1.1.exe",
+  "notes": "xatoliklar tuzatildi",
+  "sha256": "9a0f5f126c1bed3df4b1a3bb62ed16211d6c0fe67f4b9073849bd9a2ff2eea40",
+  "size": 47952139
+ }
+}
