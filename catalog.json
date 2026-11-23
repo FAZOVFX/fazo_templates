@@ -2,10 +2,10 @@
  "version": 1,
  "templates": [],
  "multicam": {
-  "version": "0.1.2",
-  "url": "https://github.com/FAZOVFX/fazo_templates/releases/download/multicam-v0.1.2/FAZO_MULTICAM_Setup_0.1.2.exe",
-  "notes": "xatoliklar tuzatildi",
-  "sha256": "6c68c897c42cff7d13cd8e965212498ae4b8479db2a89ff28e77ee761fa50675",
-  "size": 47878077
+  "version": "0.2.0",
+  "url": "https://github.com/FAZOVFX/fazo_templates/releases/download/multicam-v0.2.0/FAZO_MULTICAM_Setup_0.2.0.exe",
+  "notes": "dizaynlar almashti xatoliklkar tuzatildi qulayroq osonroq interfeys boldi",
+  "sha256": "8832d669285224baf4ec0fd2464855077b902a044b98ff341b81a221efb00d75",
+  "size": 48099862
  }
 }
